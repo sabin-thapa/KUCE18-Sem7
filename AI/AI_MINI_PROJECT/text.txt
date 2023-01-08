@@ -1,0 +1,48 @@
+['
+A 38-year-old male with no significant past medical or surgical history presented to the emergency department (ED) with complaints of fever, headache, retro-orbital pain, and myalgia of one-week duration. The patient reported high-grade intermittent fever for the past seven days that was associated with rigors and chills. His other complaints included reddish-colored urine with clots for two days along with two episodes of gum bleed. The pertinent denials included sore throat, chest pain, shortness of breath, vomiting, abdominal pain, diarrhea, burning micturition, dysuria, urinary frequency, and contact with animals. On physical examination, the patient was vitally stable, oriented to person, place and time, and had mild conjunctival pallor. On skin examination, there were multiple purpura and petechiae on the left shoulder, trunk, and both legs, and two large ecchymotic lesions on the patient's back. The rest of the systemic examination was unremarkable.
+
+The baseline workup done in the ED was normal except for a low platelet count of 20,000 x 109/L and a low white blood cell (WBC) count of 2.4 x 109/L. The patient was admitted in the isolation ward with the suspicion of DHF (Dengue Hemorrhagic Fever) which was later confirmed on serological evidence with positive dengue-specific IgM with a value of 1.94 on enzyme-linked immunosorbent assay (ELISA). Furthermore, the tourniquet test was performed, which turned out to be positive. The patient was treated conservatively with acetaminophen one gram three times a day and one liter infusion of normal saline twice daily. The patient continued to have reddish-colored urine and had one more episode of gums bleed on his third day of admission with a platelet count of 6,000 x 109/L. Infectious diseases department was consulted who recommended transfusion six units of platelets. Platelet count continued to deteriorate further with a count of 2,000 x 109/L on his sixth day of admission but with clinical improvement in his fever and bleeding manifestations. The patient was monitored daily with blood counts and bleeding manifestations. The patient improved clinically on the 11th day of his admission with no hemorrhagic manifestations and normalization of blood counts (platelet count 112 x 109/L and WBC count 6.3 x 109/L). The patient was discharged home with a follow-up appointment one month later.
+',
+'A 65 years old woman presented to the emergency department with a 4-day history of fever (37–39°C) of unknown origin, headache and loss of appetite. She denied respiratory distress and other symptoms; her SpO2 was 94% on room air. Two weeks before presentation, she travelled to a hills of dadeldhura district to collect edible plants.
+
+On physical examination, purple-coloured, non-pruritic eruptions were observed on her face, extremities and trunk. An eschar was observed in the left lower extremity. Laboratory tests revealed the following: platelet count 70 000/μL; aspartate aminotransferase level 144 U/L and alanine aminotransferase level 444 U/L. Serological tests revealed high Orientia tsutsugamushi IgG and IgM antibody titres. She was diagnosed with scrub typhus (tsutsugamushi disease) and was started on 200 mg of minocycline. After 2 weeks of the treatment, her symptoms resolved and the eruptions disappeared. She was discharged without complication.',
+
+'14 years male presented to ER of dadeldhura hospital with complain of fever since 3-4 days, upper epigastric pain, decreased appetite and vomiting 5-6 episodes since morning. Patient was ill looking. On clinical examinations yellowish discoloration of sclera, some dehydration. Pt was oriented to time and place. Chest was clear. CVS S1S2M0. CNS intact. SpO2-96%, PR-100 bpm,  temperature 98 F, BP-110/'70 mm of Hg. CBC- TLC 13000, Lymphocytes-85%, Neutrophils-20%, CRP positive. Lab investigations for HAV IgM positive, HBsAg negative, HCV IgM negative, HEV IgM positive, PT/INR was normal. ALT-1600, AST-1300 ALP- 450 Patient was treated with IV fluids. Dehydration was corrected and started on IV antibiotics, IV ondansetron, syrup lactulose 15 ml HS, tab UDCA 300 mg twice a day and admitted to ward for 3 days. And discharged after 3 days with advice of increase in oral intake of fluid and tab UDCA 300 mg twice a day for 2 weeks. Patient came for follow up after 2 weeks. Lab tests were repeated. ALT-56 AST-40 ALP 179. Patient recovered well. ',
+
+'A child of age 3 years old presented to ER of Dadeldhura Hospital with complains of fever, cough, nasal congestion since 3 days. On examination child has tachypnea with respiratory rate of 43 breaths per minute. Temperature - 101 F, PR-110 bpm, SPO2 91%. On systemic examination on auscultation of chest bilaterally wheezing. Chest retractions. Fast breathing. On lab investigations, TLC 14000, CRP 35, chest x ray bilateral pneumonia. Patient is treated with IV antibiotics. nebulization with asthalin 2 hrsly and impravent 6 hrsly and IV fluids. Patient looks well after 4 days of IV antibiotics and discharged on oral medications. On follow up after 5 days. Patient was recovered well.',
+ '16 years female presented to ER of dadeldhura hospital with complaints of fever since 1 month, nasal bleeding since 2 days. She was treated with IV antibiotics in one of the PHC of Baitadi district. Lab investigations done at PHC TLC 21000 Neutrophils 64 % Lymphocytes 50% before 3 weeks. She did not feel well and came to our ER.
+Lab investigations done at our centre.
+TLC-28000
+lymphocytes-94%
+neutrophils-20%
+Platelet- <10000
+Hemoglobin 2.5
+RBC - 2.3
+HCT-15
+peripheral blood smear done - acute leukemia.
+Blood group- A+
+2 pint whole Blood transfusion done and PRP 100 ml is transfused.
+Patient is referred to cancer hospital for further evaluation and management. Patient died on the way to cancer hospital.',
+
+'45 years female presented to ER of Dadeldhura hospital with right hypochondriac region pain since yesterday that increases on eating oily food, fever, vomiting 2-3 episodes since yesterday.
+temperature-101 F
+BP-120/80
+PR-86
+SPO2-98%
+Lab investigations:
+TLC 13000
+Neutrophils - 78%
+Lymphocytes - 23 %
+USG Abdomen and pelvis acute calculus cholecystitis.
+Pain medications done and IV antibiotics, antipyretics, antiemetics and IV fluids given. Surgery consultation done. Patient is advised to come after 2 weeks for laparoscopic appendectomy. Patient was discharged on oral antibiotics, analgesics, antipyretics and pantoprazole. After 2 weeks laparoscopic cholecystectomy was done. ',
+
+
+'Female 65 years old female presented to ER of dadeldhura hospital with upper epigastric pain, nausea, altered taste sensation, reflux of acidic fluid occasionally after taking food. All vitals were normal.
+SpO2 98%  PR 78 bpm, t - 97.8 F,
+No significant past medical history. ECG - normal sinus rhythm. No features of Myocardial infarction. Patient was treated with IV pantoprazole, hyoscine butylbromide, orally syrup tricaine mps 30 ml. Patient felt relief after 15 min of IV medications and oral medications. Patient is diagnosed with APD, GERD and discharged on tab pantoprazole 40 mg per oral twice a day for 10 days, tab buscopan 20 mg per oral thrice a day for 5 days, syrup tricaine mps 10 ml per oral thrice a day for 7 days, and tab domperidone 10 mg per oral thrice a day for 6 days. Patient is advised  to avoid spicy foods and take small portion of food time to time. Patient came on follow up after 10 days. Symptoms significantly improved.',
+
+
+
+
+
+]
