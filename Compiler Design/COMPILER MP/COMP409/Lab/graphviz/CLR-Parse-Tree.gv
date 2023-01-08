@@ -1,0 +1,12 @@
+digraph "CLR-Parse-Tree" {
+	layout=dot
+	"*" [color=lightblue ordering=in shape=circle style=filled]
+	"* " [color=lightblue ordering=in shape=circle style=filled]
+	error [color=pink shape=circle style=filled]
+	d [color=lightblue ordering=in shape=circle style=filled]
+	i [color=lightblue ordering=in shape=circle style=filled]
+	"*" -> error
+	"* " -> error
+	d -> error
+	i -> error
+}

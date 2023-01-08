@@ -1,0 +1,12 @@
+S=>L=R|R
+R=>L
+L=>*R|i
+
+
+Valid: **i
+Invalid: i=i*i
+
+
+S=>Aa | bAc | Bc | bBa
+A=>d
+B=>d
